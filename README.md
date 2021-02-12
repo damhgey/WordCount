@@ -1,6 +1,6 @@
-# WordCount
+# Word Count
 
-How to load
+# How to load
 
 Metacello new
    baseline:'WordCount';
