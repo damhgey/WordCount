@@ -1,4 +1,4 @@
-# Word Count
+## Word Count
 
 # How to load
 
