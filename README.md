@@ -1,7 +1,8 @@
-## Word Count
+# Word Count
 
-# How to load
+## How to load
 
+...smalltalk
 Metacello new
    baseline:'WordCount';
    repository: 'github://damhgey/WordCount/src';
